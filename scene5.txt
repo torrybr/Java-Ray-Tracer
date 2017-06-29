@@ -1,0 +1,12 @@
+eye 0 0 35
+look 0 0 0 
+up 0 1 0
+d 3
+bounds -1 -1 1 1 
+res 720 720
+ambient .1 .1 .1
+light -6 3 4 1 1 0 0
+light 6 3 4 1 0 0 1
+sphere -3 .5 0 1.2 .5 .5 .5
+sphere -2 -3 0 1.2 .7 .7 .7
+sphere 0 3 0 1.2 .6 .6 .6
